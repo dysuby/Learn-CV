@@ -373,3 +373,13 @@ ASALocalRun/
 .localhistory/
 
 vlfeat
+
+final/**/*.bmp
+final/**/*.JPG
+
+final/**/*.CSV
+final/**/*.xlsx
+
+final/digits/**/**/*.txt
+
+final/adaboost/model/model
